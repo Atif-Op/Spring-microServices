@@ -1,0 +1,21 @@
+
+P
+java:S1854C"5Remove this useless assignment to local variable "p".(®Û…®ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥Î‘òúÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ÏÃ¼
+Q	java:S125'"<This block of commented-out lines of code should be removed.(î¤ÓØ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(êâð»
+V	java:S125-"<This block of commented-out lines of code should be removed.(¢û©‰úÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(·´ùûÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(²’ Ðøÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(®³â¦ûÿÿÿÿ
+m
+java:S4276C"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(®Û…®ûÿÿÿÿ
+A
+java:S1481C"&Remove this unused "p" local variable.(®Û…®ûÿÿÿÿ
+M
+java:S1611F"2Remove the parentheses around the "car1" parameter(ÍËâÄøÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'comparable.Employee'.(ž¢÷»ùÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

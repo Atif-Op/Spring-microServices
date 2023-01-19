@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÐÝî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÐÝî
+Q	java:S125"<This block of commented-out lines of code should be removed.(¸•¥ã
+B
+java:S1481",Remove this unused "compare" local variable.(¾×ÁÔ
+V	java:S125"<This block of commented-out lines of code should be removed.(Å½õûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(áÐÝî
+>
+java:S1116#"Remove this empty statement.(ôŸŽìúÿÿÿÿ8˜˜ñ×¾0
+L
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8™˜ñ×¾0
